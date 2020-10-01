@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: rgb(167, 153, 153);
+}
+#content{
+    width: 800px;
+    margin: auto;
+}
+b{
+    color: yellow;
+}
+h1{
+    font-variant: small-caps;
+}
+p, li{
+    text-align: justify;
+}
+li{
+    text-indent: 40px;
+}
+.container img{
+    margin: 20px;
+}
+
+
+a:link, a:visited{
+    color: white;
+}
+a:hover{
+    color: red;
+}
